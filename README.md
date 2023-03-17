@@ -9,18 +9,17 @@
 
 - 🤝 I’m looking for help with **advanced machine learning and deep learning tools**
 
-- 📫 How to reach me ** 
--                       email - arcanand999@gmail.com
+- 📫 How to reach me ** email - arcanand999@gmail.com**
                         <a href="[link](https://www.linkedin.com/in/archit-anand-361534239/)" >Linkedin</a>
--                       phn -8235930173**
+-                       phn -8235930173
 
 - ⚡ Fun fact **i prefer fiction over facts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/archit anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archit anand" height="30" width="40" /></a>
-<a href="https://instagram.com/arc_anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arc_anand" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arc_anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arc_anand" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/archit-anand-361534239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archit anand" height="30" width="40" /></a>
+<a href="https://www.instagram.com/arc_anand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arc_anand" height="30" width="40" /></a>
+<a href="https://leetcode.com/arc_anand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arc_anand" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
