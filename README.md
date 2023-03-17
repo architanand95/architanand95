@@ -9,7 +9,9 @@
 
 - 🤝 I’m looking for help with **advanced machine learning and deep learning tools**
 
-- 📫 How to reach me **email id- arcanand999@gmail.com ,linkedin id- https://www.linkedin.com/in/archit-anand-361534239/**
+- 📫 How to reach me ** email - arcanand999@gmail.com
+-                       linkedin- https://www.linkedin.com/in/archit-anand-361534239/
+-                       phn -8235930173**
 
 - ⚡ Fun fact **i prefer fiction over facts**
 
