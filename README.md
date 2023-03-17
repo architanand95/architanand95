@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **tensor flow and 3js**
 
-- 👯 I’m looking to collaborate on **web scraping and data visualization**
+- 👯 I’m looking to collaborate on **cybersecurity and network related projects**
 
 - 🤝 I’m looking for help with **advanced machine learning and deep learning tools**
 
