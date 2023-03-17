@@ -1,5 +1,5 @@
 <h1 align="center">Hi , this is Archit</h1>
-<h3 align="center">A passionate</h3>
+<!-- <h3 align="center">A passionate</h3> -->
 
 - 🔭 I’m currently working on **multiple ai,ml and dl projects**
 
