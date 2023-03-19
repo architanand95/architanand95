@@ -10,7 +10,7 @@
 - 🤝 I’m looking for help with **advanced machine learning and deep learning tools**
 
 - 📫 How to reach me -  email - arcanand999@gmail.com
-                         whatsapp -8235930173
+                         
 
 - ⚡ Fun fact **i prefer fiction over facts**
 
